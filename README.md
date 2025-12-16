@@ -1,2 +1,1 @@
-https://github.com/ShaharearEmon1/weatherapp.git
-https://github.com/ShaharearEmon1
+https://shaharearemon1.github.io/weatherapp/
